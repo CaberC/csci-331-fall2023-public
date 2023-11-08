@@ -1,0 +1,14 @@
+
+.item{
+    color: black;
+    border: 2px solid darkblue;
+    width: 25%;
+    background-color:white;
+    overflow: scroll;
+}
+
+.prodImage{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
